@@ -1,0 +1,297 @@
+# Blender MTL File: 'escenaNivel1.blend'
+# Material Count: 27
+
+newmtl Material.002
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 50.199997 -17.400000 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.004
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.007
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.008
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.010
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 20.099998 -23.799999 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.013
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 58.999996 61.399994 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.014
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 30.699999 40.099998 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.015
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 20.099998 -23.799999 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.018
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 19.799999 20.500000 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.019
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 20.900002 28.600000 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.020
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.021
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.022
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.023
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 70.199997 15.599999 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.024
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.025
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.026
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 17.000000 19.799999 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.027
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 17.000000 19.799999 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.028
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 17.000000 19.799999 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.029
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.030
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.031
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.400001 7.400001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.032
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 19.299999 44.200001 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.037
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 66.799995 40.799995 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.038
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 73.899994 21.100000 1.000000 C:\\Users\\Sakur\\OneDrive\\Documentos\\4o Multimedia\\ABP\\RV\\Modelados\\Niveles\\Texturas\\suelo.jpg
+
+newmtl Material.044
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.043378 0.800000 0.087453
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.360
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.050534 0.309964 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.605826 1.000000
+Ni 1.450000
+d 1.000000
+illum 2
